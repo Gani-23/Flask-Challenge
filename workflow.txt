@@ -1,4 +1,4 @@
-name: AWS ECR Docker Operations
+name: AWS ECR Docker 
 
 on:
   push:
